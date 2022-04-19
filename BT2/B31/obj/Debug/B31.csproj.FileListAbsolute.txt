@@ -1,6 +1,0 @@
-E:\BT\LTC#\BT2\B31\bin\Debug\B31.exe.config
-E:\BT\LTC#\BT2\B31\bin\Debug\B31.exe
-E:\BT\LTC#\BT2\B31\bin\Debug\B31.pdb
-E:\BT\LTC#\BT2\B31\obj\Debug\B31.csproj.CoreCompileInputs.cache
-E:\BT\LTC#\BT2\B31\obj\Debug\B31.exe
-E:\BT\LTC#\BT2\B31\obj\Debug\B31.pdb

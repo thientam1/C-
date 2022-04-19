@@ -1,6 +1,0 @@
-E:\BT\LTC#\BT2\B22\bin\Debug\B22.exe.config
-E:\BT\LTC#\BT2\B22\bin\Debug\B22.exe
-E:\BT\LTC#\BT2\B22\bin\Debug\B22.pdb
-E:\BT\LTC#\BT2\B22\obj\Debug\B22.csproj.CoreCompileInputs.cache
-E:\BT\LTC#\BT2\B22\obj\Debug\B22.exe
-E:\BT\LTC#\BT2\B22\obj\Debug\B22.pdb

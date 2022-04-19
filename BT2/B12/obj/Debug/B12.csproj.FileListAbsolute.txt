@@ -1,7 +1,0 @@
-E:\BT\LTC#\BT2\B12\bin\Debug\B12.exe.config
-E:\BT\LTC#\BT2\B12\bin\Debug\B12.exe
-E:\BT\LTC#\BT2\B12\bin\Debug\B12.pdb
-E:\BT\LTC#\BT2\B12\obj\Debug\B12.csprojAssemblyReference.cache
-E:\BT\LTC#\BT2\B12\obj\Debug\B12.csproj.CoreCompileInputs.cache
-E:\BT\LTC#\BT2\B12\obj\Debug\B12.exe
-E:\BT\LTC#\BT2\B12\obj\Debug\B12.pdb
