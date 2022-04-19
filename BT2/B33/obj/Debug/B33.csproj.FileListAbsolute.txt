@@ -1,0 +1,6 @@
+E:\BT\LTC#\BT2\B33\bin\Debug\B33.exe.config
+E:\BT\LTC#\BT2\B33\bin\Debug\B33.exe
+E:\BT\LTC#\BT2\B33\bin\Debug\B33.pdb
+E:\BT\LTC#\BT2\B33\obj\Debug\B33.csproj.CoreCompileInputs.cache
+E:\BT\LTC#\BT2\B33\obj\Debug\B33.exe
+E:\BT\LTC#\BT2\B33\obj\Debug\B33.pdb

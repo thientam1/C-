@@ -1,0 +1,7 @@
+E:\BT\LTC#\BT2\B21\bin\Debug\B21.exe.config
+E:\BT\LTC#\BT2\B21\bin\Debug\B21.exe
+E:\BT\LTC#\BT2\B21\bin\Debug\B21.pdb
+E:\BT\LTC#\BT2\B21\obj\Debug\B21.csprojAssemblyReference.cache
+E:\BT\LTC#\BT2\B21\obj\Debug\B21.csproj.CoreCompileInputs.cache
+E:\BT\LTC#\BT2\B21\obj\Debug\B21.exe
+E:\BT\LTC#\BT2\B21\obj\Debug\B21.pdb
