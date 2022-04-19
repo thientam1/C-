@@ -1,7 +1,0 @@
-E:\BT\LTC#\TH C#\mang\b58\bin\Debug\b58.exe.config
-E:\BT\LTC#\TH C#\mang\b58\bin\Debug\b58.exe
-E:\BT\LTC#\TH C#\mang\b58\bin\Debug\b58.pdb
-E:\BT\LTC#\TH C#\mang\b58\obj\Debug\b58.csprojAssemblyReference.cache
-E:\BT\LTC#\TH C#\mang\b58\obj\Debug\b58.csproj.CoreCompileInputs.cache
-E:\BT\LTC#\TH C#\mang\b58\obj\Debug\b58.exe
-E:\BT\LTC#\TH C#\mang\b58\obj\Debug\b58.pdb
