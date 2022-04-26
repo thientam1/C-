@@ -11,13 +11,7 @@ namespace B26_4
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            // abstract class không thể tạo ra được đối tượng,
-            // mà phải thông qua lớp con kế thừa từ nó.
-            // SAI
-            //Animal animal = new Animal();
-            // Error: Cannot crEat14e an instance of the abstract class or interface 'Animal'
-
-            // ĐÚNG
+            
             Animal cat = new Cat();
 
             // hoặc:
@@ -26,14 +20,14 @@ namespace B26_4
             Cow cow = new Cow();
 
             // Gọi các phương thức
-            cat.Eat14();
-            cow.Eat14();
+            cat.Eat148();
+            cow.Eat148();
 
-            cat.AnimalSound14();
-            cow.AnimalSound14();
+            cat.AnimalSound148();
+            cow.AnimalSound148();
 
-            cat.Run14();
-            cat.Run14();
+            cat.Run148();
+            cat.Run148();
 
             Console.ReadKey();
         }
@@ -43,16 +37,16 @@ namespace B26_4
     public abstract class Animal
     {
         // abstract method
-        public abstract void AnimalSound14();
+        public abstract void AnimalSound148();
 
         // virtual method
-        public virtual void Eat14()
+        public virtual void Eat148()
         {
             Console.WriteLine("Động vật ăn cỏ.");
         }
 
         // normal method
-        public void Run14()
+        public void Run148()
         {
             Console.WriteLine("Chạy bằng 4 chân.");
         }
@@ -63,7 +57,7 @@ namespace B26_4
     {
         // abstract method: bắt buộc lớp con phải override lại từ lớp cha.
         // Khi override thì phạm vi truy cập phải giống của lớp cha: public
-        public override void AnimalSound14()
+        public override void AnimalSound148()
         {
             Console.WriteLine("Mèo meow meow.");
         }
@@ -72,7 +66,7 @@ namespace B26_4
         // Lớp con có thể dùng luôn định nghĩa từ lớp cha nếu phù hợp,
         // hoặc override (định nghĩa lại) nếu không phù hợp.
         // Khi override thì phạm vi truy cập phải giống của lớp cha: public
-        public override void Eat14()
+        public override void Eat148()
         {
             Console.WriteLine("Mèo ăn cá.");
         }
@@ -83,7 +77,7 @@ namespace B26_4
     // Lớp Cow kế thừa lớp Animal
     public class Cow : Animal
     {
-        public override void AnimalSound14()
+        public override void AnimalSound148()
         {
             Console.WriteLine("Bò kêu ummuu bò.");
         }
