@@ -1,0 +1,7 @@
+E:\BT\LTC#\B10-5\B10-5\bin\Debug\B10-5.exe.config
+E:\BT\LTC#\B10-5\B10-5\bin\Debug\B10-5.exe
+E:\BT\LTC#\B10-5\B10-5\bin\Debug\B10-5.pdb
+E:\BT\LTC#\B10-5\B10-5\obj\Debug\B10-5.csprojAssemblyReference.cache
+E:\BT\LTC#\B10-5\B10-5\obj\Debug\B10-5.csproj.CoreCompileInputs.cache
+E:\BT\LTC#\B10-5\B10-5\obj\Debug\B10-5.exe
+E:\BT\LTC#\B10-5\B10-5\obj\Debug\B10-5.pdb
