@@ -1,0 +1,7 @@
+E:\BT\LTC#\QLDC2\QLDC2\bin\Debug\QLDC2.exe.config
+E:\BT\LTC#\QLDC2\QLDC2\bin\Debug\QLDC2.exe
+E:\BT\LTC#\QLDC2\QLDC2\bin\Debug\QLDC2.pdb
+E:\BT\LTC#\QLDC2\QLDC2\obj\Debug\QLDC2.csprojAssemblyReference.cache
+E:\BT\LTC#\QLDC2\QLDC2\obj\Debug\QLDC2.csproj.CoreCompileInputs.cache
+E:\BT\LTC#\QLDC2\QLDC2\obj\Debug\QLDC2.exe
+E:\BT\LTC#\QLDC2\QLDC2\obj\Debug\QLDC2.pdb
